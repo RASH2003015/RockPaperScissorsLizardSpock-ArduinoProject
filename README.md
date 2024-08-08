@@ -48,8 +48,5 @@ A graphical user interface (GUI) to enhance user-friendliness, showcasing the sc
 ## Contributions
 Each team member has contributed to the coding, hardware setup, and documentation of this project.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For any questions or further information, please contact [Your Name] at [Your Email].
+For any questions or further information, please contact us.
